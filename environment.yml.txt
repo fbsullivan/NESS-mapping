@@ -1,0 +1,1 @@
+conda create --name rgee python=3.12 numpy earth-engine
